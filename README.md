@@ -6,4 +6,4 @@ Curso Digital: Git/versionamento
 
 ## comando git, push
 
-#3 comando git, pull
+## comando git, pull
